@@ -1,0 +1,8 @@
+# Folders
+env
+__pycache__/
+
+# Files
+*.csv
+geckodriver.log
+scraping_dealabs.py
